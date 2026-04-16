@@ -87,11 +87,6 @@ Analyzes user behavior and engagement:
 
 ---
 
-## Dashboard Preview
-*(Add screenshots here for better visualization)*
-
----
-
 ## How to Use
 1. Open the dashboard via the link above
 2. Apply filters (date range, category, OS)
